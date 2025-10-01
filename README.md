@@ -11,7 +11,7 @@
 - Tools: GitHub, LaTeX, Jupyter, VS Code
 
 ## 📁 Projects
-- **Java Data Structures** – Implemented linked lists, stacks, and queues with clean logic and modular design.
+- **[Java Data Structures](https://github.com/CharlsB73/AlgoritmosyProgramasITAM)** **and [Calculator implemented with Java](https://github.com/CharlsB73/ED-Calculadora-Proyecto)** – Implemented linked lists, stacks, and queues with clean logic and modular design.
 - **[SQL Data Cleaning and Processing](https://github.com/CharlsB73/Proyecto_Final_BD)** – Cleaned and analyzed messy datasets using SQL queries and aggregation techniques.
 - *(More coming soon: R simulations, Python visualizations)*
 
