@@ -12,7 +12,7 @@
 
 ## 📁 Projects
 - **Java Data Structures** – Implemented linked lists, stacks, and queues with clean logic and modular design.
-- **SQL Data Cleaning** – Cleaned and analyzed messy datasets using SQL queries and aggregation techniques.
+- **[SQL Data Cleaning](https://github.com/your-username/sql-project-name)** – Cleaned and analyzed messy datasets using SQL queries and aggregation techniques.
 - *(More coming soon: R simulations, Python visualizations)*
 
 ## 🌍 Languages
