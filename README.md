@@ -1,4 +1,3 @@
-# CharlesB73
 
 # Carlos Gerardo Castillo Campos
 
